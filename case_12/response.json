@@ -1,0 +1,137 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "0",
+            "codigoEstadoServidor": "9000774",
+            "descripcionEstado": "Se ha guardado correctamente la simulación con número 64641317",
+            "severidad": "Info"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": {
+        "codigo": "64641317",
+        "nombre": null
+    },
+    "datosGestion": {
+        "agente": {
+            "codigo": "4093599",
+            "nombre": null
+        },
+        "duracion": {
+            "codigo": "0",
+            "nombre": null
+        },
+        "coaseguro": null,
+        "fechaEfecto": null,
+        "formaPago": {
+            "codigo": "1",
+            "nombre": null
+        },
+        "tipcc": null,
+        "cbanco": null,
+        "cbancar": null,
+        "fvencim": null,
+        "producto": {
+            "codigo": "6031",
+            "nombre": null
+        }
+    },
+    "amparo": [
+        {
+            "codigo": "9220",
+            "nombre": "Responsabilidad Civil Extracontractual ",
+            "capital": 4400000000,
+            "obligatorio": true,
+            "primaTarifa": "55231",
+            "primaAnual": "55231",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": " $0"
+        },
+        {
+            "codigo": "9036",
+            "nombre": "Lesión o Muerte a 1 persona ",
+            "capital": 4400000000,
+            "obligatorio": true,
+            "primaTarifa": "16787",
+            "primaAnual": "16787",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": " $0"
+        },
+        {
+            "codigo": "9037",
+            "nombre": "Lesión o Muerte a más de una persona ",
+            "capital": 4400000000,
+            "obligatorio": true,
+            "primaTarifa": "7195",
+            "primaAnual": "7195",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": " $0"
+        },
+        {
+            "codigo": "763",
+            "nombre": "Amparo Patrimonial ",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "0",
+            "primaAnual": "0",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "766",
+            "nombre": "Asistencia Jurídica Penal",
+            "capital": 13385074,
+            "obligatorio": true,
+            "primaTarifa": "21318",
+            "primaAnual": "21318",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "767",
+            "nombre": "Asistencia Jurídica Civil",
+            "capital": 6770660,
+            "obligatorio": true,
+            "primaTarifa": "3553",
+            "primaAnual": "3553",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "768",
+            "nombre": "Asistencia en viaje",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "182004",
+            "primaAnual": "182004",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        }
+    ],
+    "datosEconomicos": {
+        "descuento": "0",
+        "gastosExpedicion": "5877",
+        "impuestos": "55474",
+        "primaAnual": "286088",
+        "primerRecibo": "347439",
+        "sobreprima": "0",
+        "tarifa": "286088",
+        "total": "347439",
+        "vigencia": "286088"
+    },
+    "psu": null
+}

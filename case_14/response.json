@@ -1,0 +1,16 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "-10",
+            "codigoEstadoServidor": "9904746",
+            "descripcionEstado": "Formato de placa incorrecto",
+            "severidad": "Error"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": null,
+    "datosGestion": null,
+    "amparo": null,
+    "datosEconomicos": null,
+    "psu": null
+}

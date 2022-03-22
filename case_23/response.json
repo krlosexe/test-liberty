@@ -1,0 +1,16 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "-10",
+            "codigoEstadoServidor": "9908034",
+            "descripcionEstado": "La placa esta siendo usada en alguna poliza vigente",
+            "severidad": "Error"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": null,
+    "datosGestion": null,
+    "amparo": null,
+    "datosEconomicos": null,
+    "psu": null
+}

@@ -1,0 +1,110 @@
+{
+   "automovil": {
+      "datos": {
+         "codigoFasecolda": "02801090",
+         "modeloAnyo": "2009"
+      },
+      "identificacion": {
+      	"color": {"codigo":0},
+      	"kilometraje":0,
+         "placa": {
+            "placa": "FHP803",
+            "tipoPlaca": {
+               "codigo": "12"
+            }
+         },
+         "valor": "15700000",
+         "transportaCombustible": "false"
+      },
+      "otrosDatos": {
+         "nuevo": "false",
+         "uso": {
+            "codigo": "3"
+         }
+      }
+   },
+   "conductor": {
+      "direccion": {
+         "ciudad": "1",
+         "departamento": "11",
+         "direccion": "direccion",
+         "pais": "170"
+      },
+      "numeroDocumento": "3176883",
+      "telefono": {
+         "numero": "3103300"
+      },
+      "tipoDocumento": {
+         "codigo": "36"
+      },
+      "fechaNacimiento": "1990-05-10T00:00:00.000-05:00",
+      "genero": {
+         "codigo": "1"
+      },
+      "ocupacion": {
+         "codigo": "1330"
+      },
+      "primerApellido": "HERNANDEZ",
+      "primerNombre": "DIANA"
+   },
+   "datosGestion": {
+   	"agente":{
+   		"codigo":"4093599"
+   	},
+      "duracion": {
+         "codigo": "0"
+      },
+      "formaPago": {
+         "codigo": "1"
+      },
+      	"producto":{
+   		"codigo":"6031"
+   	}
+   },
+   "infoRequest": {
+      "aplicacionCliente": "DDDD",
+      "fecha": "2019-08-01T00:00:00.000-05:00",
+      "ip": "DDDD",
+      "requestID": "WWEE44",
+      "terminal": "DDDD"
+   },
+     "preguntaPoliza": [
+    	{
+    	 "pregunta": { "codigo": 4089 },
+    	 "respuesta": { "codigo": 24 }
+    	}
+    ],
+   "preguntaRiesgo": [
+      {
+         "pregunta": {"codigo": 4926},
+         "respuesta": {"valor": "0"}
+      }
+   ],
+   
+    "tomadorPersonaNatural": [
+        {
+             "direccion": {
+         "ciudad": "1",
+         "departamento": "11",
+         "direccion": "direccion",
+         "pais": "170"
+      },
+      "numeroDocumento": "3176883",
+      "telefono": {
+         "numero": "3103300"
+      },
+      "tipoDocumento": {
+         "codigo": "36"
+      },
+      "fechaNacimiento": "1990-05-10T00:00:00.000-05:00",
+      "genero": {
+         "codigo": "1"
+      },
+      "ocupacion": {
+         "codigo": "1330"
+      },
+      "primerApellido": "HERNANDEZ",
+      "primerNombre": "DIANA"
+        }
+    ]
+}

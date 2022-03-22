@@ -1,0 +1,58 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "-500",
+            "codigoEstadoServidor": "-50",
+            "descripcionEstado": "PSU(s) critica(s):Tipo de Vehículo; Valor comercial vehículo; . Simulacion 64637691",
+            "severidad": "Error"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": null,
+    "datosGestion": {
+        "agente": {
+            "codigo": "4093599",
+            "nombre": null
+        },
+        "duracion": {
+            "codigo": "0",
+            "nombre": null
+        },
+        "coaseguro": null,
+        "fechaEfecto": null,
+        "formaPago": {
+            "codigo": "1",
+            "nombre": null
+        },
+        "tipcc": null,
+        "cbanco": null,
+        "cbancar": null,
+        "fvencim": null,
+        "producto": {
+            "codigo": "6031",
+            "nombre": null
+        }
+    },
+    "amparo": null,
+    "datosEconomicos": null,
+    "psu": [
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Tipo de Vehículo",
+            "estado": "Autorizado (A)",
+            "fecha": "2022-02-03T14:12:07.000-05:00",
+            "nivel": "60",
+            "riesgo": "JLT285 - LEXUS - GX [3] - 460TP 4600CC 4X4 10AB TC CT "
+        },
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Valor comercial vehículo",
+            "estado": "Autorizado (A)",
+            "fecha": "2022-02-03T14:12:07.000-05:00",
+            "nivel": "60",
+            "riesgo": "JLT285 - LEXUS - GX [3] - 460TP 4600CC 4X4 10AB TC CT "
+        }
+    ]
+}

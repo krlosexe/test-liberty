@@ -1,0 +1,67 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "-500",
+            "codigoEstadoServidor": "-50",
+            "descripcionEstado": "PSU(s) critica(s):Valor comercial vehículo; . Simulacion 64637704",
+            "severidad": "Error"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": null,
+    "datosGestion": {
+        "agente": {
+            "codigo": "4093599",
+            "nombre": null
+        },
+        "duracion": {
+            "codigo": "0",
+            "nombre": null
+        },
+        "coaseguro": null,
+        "fechaEfecto": null,
+        "formaPago": {
+            "codigo": "1",
+            "nombre": null
+        },
+        "tipcc": null,
+        "cbanco": null,
+        "cbancar": null,
+        "fvencim": null,
+        "producto": {
+            "codigo": "6031",
+            "nombre": null
+        }
+    },
+    "amparo": null,
+    "datosEconomicos": null,
+    "psu": [
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Valor comercial vehículo",
+            "estado": "Autorizado (A)",
+            "fecha": "2022-02-03T14:23:32.000-05:00",
+            "nivel": "60",
+            "riesgo": "FHP803 - FIAT - IDEA - HLXMT 1800CC "
+        },
+        {
+            "amparo": null,
+            "critico": false,
+            "descripcion": "Accesorios superan el límite",
+            "estado": "Autorizado (A)",
+            "fecha": "2022-02-03T14:23:32.000-05:00",
+            "nivel": "60",
+            "riesgo": "FHP803 - FIAT - IDEA - HLXMT 1800CC "
+        },
+        {
+            "amparo": null,
+            "critico": false,
+            "descripcion": "Accesorios no asegurables contratados",
+            "estado": "Autorizado (A)",
+            "fecha": "2022-02-03T14:23:32.000-05:00",
+            "nivel": "60",
+            "riesgo": "FHP803 - FIAT - IDEA - HLXMT 1800CC "
+        }
+    ]
+}
