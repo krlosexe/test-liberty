@@ -1,0 +1,7 @@
+{
+    "timestamp": "2022-04-11T13:55:46.864+0000",
+    "status": 500,
+    "error": "Internal Server Error",
+    "message": "unknown",
+    "path": "/GenericAutoOr/cotizarAutoIndividual"
+}
