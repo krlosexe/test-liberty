@@ -3,18 +3,18 @@
         "estado": {
             "codigoEstado": "0",
             "codigoEstadoServidor": "9000774",
-            "descripcionEstado": "Se ha guardado correctamente la simulación con número 64641317",
+            "descripcionEstado": "Se ha guardado correctamente la simulación con número 64643722",
             "severidad": "Info"
         },
         "requestID": "WWEE44"
     },
     "simulacion": {
-        "codigo": "64641317",
+        "codigo": "64643722",
         "nombre": null
     },
     "datosGestion": {
         "agente": {
-            "codigo": "4093599",
+            "codigo": "4091809",
             "nombre": null
         },
         "duracion": {
@@ -42,8 +42,8 @@
             "nombre": "Responsabilidad Civil Extracontractual ",
             "capital": 4400000000,
             "obligatorio": true,
-            "primaTarifa": "55231",
-            "primaAnual": "55231",
+            "primaTarifa": "95492",
+            "primaAnual": "95492",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -54,8 +54,8 @@
             "nombre": "Lesión o Muerte a 1 persona ",
             "capital": 4400000000,
             "obligatorio": true,
-            "primaTarifa": "16787",
-            "primaAnual": "16787",
+            "primaTarifa": "30388",
+            "primaAnual": "30388",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -66,8 +66,8 @@
             "nombre": "Lesión o Muerte a más de una persona ",
             "capital": 4400000000,
             "obligatorio": true,
-            "primaTarifa": "7195",
-            "primaAnual": "7195",
+            "primaTarifa": "13023",
+            "primaAnual": "13023",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -90,8 +90,8 @@
             "nombre": "Asistencia Jurídica Penal",
             "capital": 13385074,
             "obligatorio": true,
-            "primaTarifa": "21318",
-            "primaAnual": "21318",
+            "primaTarifa": "22384",
+            "primaAnual": "22384",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -102,20 +102,8 @@
             "nombre": "Asistencia Jurídica Civil",
             "capital": 6770660,
             "obligatorio": true,
-            "primaTarifa": "3553",
-            "primaAnual": "3553",
-            "deducible": null,
-            "preguntaAmparo": null,
-            "respuestaAmparo": null,
-            "tdeducible": null
-        },
-        {
-            "codigo": "768",
-            "nombre": "Asistencia en viaje",
-            "capital": 0,
-            "obligatorio": true,
-            "primaTarifa": "182004",
-            "primaAnual": "182004",
+            "primaTarifa": "3731",
+            "primaAnual": "3731",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -125,13 +113,14 @@
     "datosEconomicos": {
         "descuento": "0",
         "gastosExpedicion": "5877",
-        "impuestos": "55474",
-        "primaAnual": "286088",
-        "primerRecibo": "347439",
+        "impuestos": "32470",
+        "primaAnual": "165018",
+        "primerRecibo": "203365",
         "sobreprima": "0",
-        "tarifa": "286088",
-        "total": "347439",
-        "vigencia": "286088"
+        "tarifa": "165018",
+        "total": "203365",
+        "vigencia": "165018"
     },
+    "preguntaPoliza": null,
     "psu": null
 }

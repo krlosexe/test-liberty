@@ -1,0 +1,68 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "-500",
+            "codigoEstadoServidor": "-50",
+            "descripcionEstado": "PSU(s) critica(s):Valor comercial vehículo; Tipo de Vehículo; . Simulacion 64643769",
+            "severidad": "Error"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": null,
+    "datosGestion": {
+        "agente": {
+            "codigo": "4093599",
+            "nombre": null
+        },
+        "duracion": {
+            "codigo": "0",
+            "nombre": null
+        },
+        "coaseguro": null,
+        "fechaEfecto": null,
+        "formaPago": {
+            "codigo": "1",
+            "nombre": null
+        },
+        "tipcc": null,
+        "cbanco": null,
+        "cbancar": null,
+        "fvencim": null,
+        "producto": {
+            "codigo": "6031",
+            "nombre": null
+        }
+    },
+    "amparo": null,
+    "datosEconomicos": null,
+    "preguntaPoliza": null,
+    "psu": [
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Valor comercial vehículo",
+            "estado": "Pendiente (A)",
+            "fecha": "2022-03-24T08:56:59.000-04:00",
+            "nivel": "60",
+            "riesgo": "GPW414 - PORSCHE - MACAN [FL] - 2.0TP 2000CC T "
+        },
+        {
+            "amparo": null,
+            "critico": false,
+            "descripcion": "Marca de Vehículo",
+            "estado": "Pendiente (A)",
+            "fecha": "2022-03-24T08:56:59.000-04:00",
+            "nivel": "60",
+            "riesgo": "GPW414 - PORSCHE - MACAN [FL] - 2.0TP 2000CC T "
+        },
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Tipo de Vehículo",
+            "estado": "Pendiente (A)",
+            "fecha": "2022-03-24T08:56:59.000-04:00",
+            "nivel": "60",
+            "riesgo": "GPW414 - PORSCHE - MACAN [FL] - 2.0TP 2000CC T "
+        }
+    ]
+}

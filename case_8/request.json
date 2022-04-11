@@ -1,110 +1,121 @@
 {
    "automovil": {
-      "datos": {
-         "codigoFasecolda": "02801090",
-         "modeloAnyo": "2009"
-      },
-      "identificacion": {
-      	"color": {"codigo":0},
-      	"kilometraje":0,
-         "placa": {
-            "placa": "FHP803",
-            "tipoPlaca": {
-               "codigo": "12"
-            }
-         },
-         "valor": "15700000",
-         "transportaCombustible": "false"
-      },
-      "otrosDatos": {
-         "nuevo": "false",
-         "uso": {
-            "codigo": "3"
-         }
-      }
+       "datos": {
+           "codigoFasecolda": "02801090",
+           "modeloAnyo": "2009"
+       },
+       "identificacion": {
+           "motos": "L30460963",
+           "chasis": "9BD13581892118021",
+           "color": {
+               "codigo": "0"
+           },
+           "kilometraje": "0",
+           "placa": {
+               "placa": "FHP803",
+               "tipoPlaca": {
+                   "codigo": "12"
+               }
+           },
+           "valor": 18000000,
+           "transportaCombustible": "false"
+       },
+       "otrosDatos": {
+           "nuevo": false,
+           "uso": {
+               "codigo": "3"
+           }
+       }
    },
    "conductor": {
-      "direccion": {
-         "ciudad": "1",
-         "departamento": "11",
-         "direccion": "direccion",
-         "pais": "170"
-      },
-      "numeroDocumento": "3176883",
-      "telefono": {
-         "numero": "3103300"
-      },
-      "tipoDocumento": {
-         "codigo": "36"
-      },
-      "fechaNacimiento": "1990-05-10T00:00:00.000-05:00",
-      "genero": {
-         "codigo": "1"
-      },
-      "ocupacion": {
-         "codigo": "1330"
-      },
-      "primerApellido": "HERNANDEZ",
-      "primerNombre": "DIANA"
+       "direccion": {
+           "ciudad": "1",
+           "departamento": "11",
+           "direccion": "direccion",
+           "pais": "170"
+       },
+       "numeroDocumento": 42414124,
+       "telefono": {
+           "numero": "2123122"
+       },
+       "tipoDocumento": {
+           "codigo": "36"
+       },
+       "fechaNacimiento": "1994-03-17T05:00:00Z",
+       "genero": {
+           "codigo": "1"
+       },
+       "ocupacion": {
+           "codigo": "1330"
+       },
+       "primerApellido": "CARDENAS",
+       "primerNombre": "CARLOS"
    },
    "datosGestion": {
-   	"agente":{
-   		"codigo":"4093599"
-   	},
-      "duracion": {
-         "codigo": "0"
-      },
-      "formaPago": {
-         "codigo": "1"
-      },
-      	"producto":{
-   		"codigo":"6031"
-   	}
+       "agente": {
+           "codigo": "4091809"
+       },
+       "duracion": {
+           "codigo": "0"
+       },
+       "formaPago": {
+           "codigo": "1"
+       },
+       "producto": {
+           "codigo": 6031
+       }
    },
    "infoRequest": {
-      "aplicacionCliente": "DDDD",
-      "fecha": "2019-08-01T00:00:00.000-05:00",
-      "ip": "DDDD",
-      "requestID": "WWEE44",
-      "terminal": "DDDD"
+       "aplicacionCliente": "DDDD",
+       "fecha": "2019-08-01T00:00:00.000-05:00",
+       "ip": "DDDD",
+       "requestID": "WWEE44",
+       "terminal": "DDDD"
    },
-     "preguntaPoliza": [
-    	{
-    	 "pregunta": { "codigo": 4089 },
-    	 "respuesta": { "codigo": 2 }
-    	}
-    ],
-   "preguntaRiesgo": [
-      {
-         "pregunta": {"codigo": 4926},
-         "respuesta": {"valor": "0"}
-      }
+   "preguntaPoliza": [
+       {
+           "pregunta": {
+               "codigo": 4089
+           },
+           "respuesta": {
+               "codigo": 2
+           }
+       }
    ],
-   
-    "tomadorPersonaNatural": [
-        {
-             "direccion": {
-         "ciudad": "1",
-         "departamento": "11",
-         "direccion": "direccion",
-         "pais": "170"
-      },
-      "numeroDocumento": "3176883",
-      "telefono": {
-         "numero": "3103300"
-      },
-      "tipoDocumento": {
-         "codigo": "36"
-      },
-      "fechaNacimiento": "1990-05-10T00:00:00.000-05:00",
-      "genero": {
-         "codigo": "2"
-      },
-      "ocupacion": {
-         "codigo": "1330"
-      },
-      "primerApellido": "HERNANDEZ",
-      "primerNombre": "DIANA"
-        }
-    ]
+   "preguntaRiesgo": [
+       {
+           "pregunta": {
+               "codigo": 4926
+           },
+           "respuesta": {
+               "valor": "0"
+           }
+       }
+   ],
+   "tomadorPersonaNatural": [
+       {
+           "direccion": {
+               "ciudad": "1",
+               "departamento": "11",
+               "direccion": "direccion",
+               "pais": "170"
+           },
+           "numeroDocumento": 42414124,
+           "telefono": {
+               "numero": "3103300"
+           },
+           "tipoDocumento": {
+               "codigo": "36"
+           },
+           "fechaNacimiento": "1994-03-17T05:00:00Z",
+           "genero": {
+               "codigo": "1"
+           },
+           "ocupacion": {
+               "codigo": "1330"
+           },
+           "primerApellido": "CARDENAS",
+           "primerNombre": "CARLOS"
+       }
+   ]
 }

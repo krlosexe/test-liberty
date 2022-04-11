@@ -3,13 +3,13 @@
         "estado": {
             "codigoEstado": "0",
             "codigoEstadoServidor": "9000774",
-            "descripcionEstado": "Se ha guardado correctamente la simulación con número 64643752",
+            "descripcionEstado": "Se ha guardado correctamente la simulación con número 64645124",
             "severidad": "Info"
         },
         "requestID": "WWEE44"
     },
     "simulacion": {
-        "codigo": "64643752",
+        "codigo": "64645124",
         "nombre": null
     },
     "datosGestion": {
@@ -76,10 +76,10 @@
         {
             "codigo": "758",
             "nombre": "Pérdida Total por Hurto",
-            "capital": 18000000,
+            "capital": 15700000,
             "obligatorio": true,
-            "primaTarifa": "89356",
-            "primaAnual": "89356",
+            "primaTarifa": "74463",
+            "primaAnual": "74463",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -88,10 +88,10 @@
         {
             "codigo": "759",
             "nombre": "Pérdida Total por Daños",
-            "capital": 18000000,
+            "capital": 15700000,
             "obligatorio": true,
-            "primaTarifa": "245218",
-            "primaAnual": "245218",
+            "primaTarifa": "204348",
+            "primaAnual": "204348",
             "deducible": null,
             "preguntaAmparo": null,
             "respuestaAmparo": null,
@@ -100,7 +100,7 @@
         {
             "codigo": "760",
             "nombre": "Pérdida Parcial por Daños",
-            "capital": 18000000,
+            "capital": 15700000,
             "obligatorio": true,
             "primaTarifa": "271177",
             "primaAnual": "271177",
@@ -112,7 +112,7 @@
         {
             "codigo": "761",
             "nombre": "Pérdida Parcial por Hurto ",
-            "capital": 18000000,
+            "capital": 15700000,
             "obligatorio": true,
             "primaTarifa": "11403",
             "primaAnual": "11403",
@@ -124,7 +124,7 @@
         {
             "codigo": "762",
             "nombre": "Temblor, Terremoto o erupción Volcánica",
-            "capital": 18000000,
+            "capital": 15700000,
             "obligatorio": true,
             "primaTarifa": "33211",
             "primaAnual": "33211",
@@ -180,18 +180,138 @@
             "preguntaAmparo": null,
             "respuestaAmparo": null,
             "tdeducible": null
+        },
+        {
+            "codigo": "770",
+            "nombre": "Accidentes Personales",
+            "capital": 40000000,
+            "obligatorio": true,
+            "primaTarifa": "17038",
+            "primaAnual": "17038",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "771",
+            "nombre": "Responsabilidad Civil General Familiar",
+            "capital": 44000000,
+            "obligatorio": true,
+            "primaTarifa": "60624",
+            "primaAnual": "60624",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": " $950.000"
+        },
+        {
+            "codigo": "9219",
+            "nombre": "Cobertura de vidrios ",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "94627",
+            "primaAnual": "94627",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": "Sin Deducible"
+        },
+        {
+            "codigo": "766",
+            "nombre": "Asistencia Jurídica Penal",
+            "capital": 13385074,
+            "obligatorio": true,
+            "primaTarifa": "22384",
+            "primaAnual": "22384",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "767",
+            "nombre": "Asistencia Jurídica Civil",
+            "capital": 6770660,
+            "obligatorio": true,
+            "primaTarifa": "3731",
+            "primaAnual": "3731",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "768",
+            "nombre": "Asistencia en viaje",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "191104",
+            "primaAnual": "191104",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "773",
+            "nombre": "Asistencia Odontológica ",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "15231",
+            "primaAnual": "15231",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "774",
+            "nombre": "Exequias",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "7609",
+            "primaAnual": "7609",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "775",
+            "nombre": "Trámite de Tránsito",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "6850",
+            "primaAnual": "6850",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
+        },
+        {
+            "codigo": "778",
+            "nombre": ".",
+            "capital": 0,
+            "obligatorio": true,
+            "primaTarifa": "0",
+            "primaAnual": "0",
+            "deducible": null,
+            "preguntaAmparo": null,
+            "respuestaAmparo": null,
+            "tdeducible": null
         }
     ],
     "datosEconomicos": {
         "descuento": "0",
         "gastosExpedicion": "5877",
-        "impuestos": "167813",
-        "primaAnual": "877345",
-        "primerRecibo": "1051035",
+        "impuestos": "236867",
+        "primaAnual": "1240780",
+        "primerRecibo": "1483524",
         "sobreprima": "0",
-        "tarifa": "877345",
-        "total": "1051035",
-        "vigencia": "877345"
+        "tarifa": "1240780",
+        "total": "1483524",
+        "vigencia": "1240780"
     },
     "preguntaPoliza": null,
     "psu": null

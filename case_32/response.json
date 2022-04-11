@@ -1,0 +1,68 @@
+{
+    "infoResponse": {
+        "estado": {
+            "codigoEstado": "-500",
+            "codigoEstadoServidor": "-50",
+            "descripcionEstado": "PSU(s) critica(s):Modelo vehículo; Vehículo riesgo fuera de política; . Simulacion 64643783",
+            "severidad": "Error"
+        },
+        "requestID": "WWEE44"
+    },
+    "simulacion": null,
+    "datosGestion": {
+        "agente": {
+            "codigo": "4093599",
+            "nombre": null
+        },
+        "duracion": {
+            "codigo": "0",
+            "nombre": null
+        },
+        "coaseguro": null,
+        "fechaEfecto": null,
+        "formaPago": {
+            "codigo": "1",
+            "nombre": null
+        },
+        "tipcc": null,
+        "cbanco": null,
+        "cbancar": null,
+        "fvencim": null,
+        "producto": {
+            "codigo": "6031",
+            "nombre": null
+        }
+    },
+    "amparo": null,
+    "datosEconomicos": null,
+    "preguntaPoliza": null,
+    "psu": [
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Modelo vehículo",
+            "estado": "Pendiente (A)",
+            "fecha": "2022-03-24T09:45:12.000-04:00",
+            "nivel": "60",
+            "riesgo": "LAM279 - TOYOTA - BURBUJA [LC 80] - EGMNU [FZJ80]MT "
+        },
+        {
+            "amparo": null,
+            "critico": true,
+            "descripcion": "Vehículo riesgo fuera de política",
+            "estado": "Pendiente (A)",
+            "fecha": "2022-03-24T09:45:12.000-04:00",
+            "nivel": "60",
+            "riesgo": "LAM279 - TOYOTA - BURBUJA [LC 80] - EGMNU [FZJ80]MT "
+        },
+        {
+            "amparo": null,
+            "critico": false,
+            "descripcion": "Valor comercial y/o valor de nuevo diferente a Fasecolda",
+            "estado": "Pendiente (A)",
+            "fecha": "2022-03-24T09:45:12.000-04:00",
+            "nivel": "60",
+            "riesgo": "LAM279 - TOYOTA - BURBUJA [LC 80] - EGMNU [FZJ80]MT "
+        }
+    ]
+}
